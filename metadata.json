@@ -1,0 +1,6 @@
+{
+  "name": "Admin Terminal",
+  "description": "A hacker-style terminal interface for accessing restricted images and records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
